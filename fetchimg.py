@@ -2,13 +2,11 @@
 #
 # Filename: fetchimg.py
 # Author:
-#       SDK         <sdk19881107@yahoo.co.jp>
+#       sdkyoku
 # Created: 2014-09-08 18:18
 
 
 __version__ = '1.1.0'
-__author__ = 'SDK'
-__email__ = 'sdk19881107@yahoo.co.jp'
 
 
 from logger import mylogger as logger

@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Contributor:
-#       SDK             <sdk19881107@yahoo.co.jp>
-#       Sarasa          <chiey.qs@gmail.com>
+#       sdkyoku          <chiey.qs@gmail.com>
 # Specially thanks:
 #       GoAgent Team
 
