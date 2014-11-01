@@ -115,8 +115,8 @@ class DbHandle:
     def query(self, _hash):
         """query(hash)
 
-        if hint, return 0,
-        if hint none, return 1
+        if hit, return 0,
+        if hit none, return 1
         """
         cur.execute("SELECT * FROM tbl_hash WHERE hash = ?", (_hash,))
         result = cur.fetchall()

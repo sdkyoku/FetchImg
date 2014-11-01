@@ -1,4 +1,4 @@
-FetchImg说明
+说明
 ============
 这个脚本可以用来下载类似萌妹或者konachan之类网站上的图片内容，默认下载无损图片。
 
@@ -16,7 +16,7 @@ FetchImg说明
 需求
 ===========
 * Python 2.7
-* socks
+* socks (请执行 `pip install socksipy` 进行安装)
 * beautifulsoup4
 
 使用方法
